@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "$(date) - Running script with input $1" >> /home/abc/cron.log
+echo "$(date) - Running script with a input $1" >> /home/abc/cron.log
 
